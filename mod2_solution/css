@@ -1,0 +1,68 @@
+			/**** Base style   ****/
+		*
+		{
+			box-sizing: border-box;
+		}
+		section
+		{
+			border: 1px solid black;
+			margin-left:1%;
+			margin-right:1%;
+			font-family: Helvetica;
+			float:left;
+			margin-bottom:1%;
+			height:250px;
+			width:40%;
+			padding-left:1.5%;
+			background-color:#D3D3D3;
+		}
+		section p
+		{
+		padding:0;
+		}
+		section p
+		{
+			padding-top:1%
+
+		}
+		h1
+		{
+			text-align:center;
+			margin-bottom:5%;
+			margin-top:6%;
+		}
+		section h2
+		{
+			position:relative;
+			left:70.3%;
+			bottom:0.3%;
+			border: 1px solid black;
+			width:30%;
+			margin:0;
+			text-align:center;
+		}
+	.colour1
+		{
+			background-color:pink;
+		}
+		.colour2
+		{
+			background-color:#FF6347;
+		}
+		.colour3
+		{
+			background-color:#F0E68C;
+		}
+	
+	
+	
+	
+	
+	
+	
+	
+		
+		
+	
+	
+	
